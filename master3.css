@@ -1,0 +1,92 @@
+body{
+  background-image: url(image1.jpg);
+}
+
+.background{
+  width: 800px;
+  height: 600px;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 10px 10px 10px 10px;
+  margin-top: 10px;
+}
+
+.background.header{
+
+}
+
+*{
+  margin: auto;
+  font-family: Mulish;
+  margin: auto;
+  padding: 0;
+}
+
+header{
+  text-align: center;
+  margin-top: 50px;
+}
+
+img{
+  margin-top: 70px;
+}
+
+.text{
+  font-size:25px;
+  color: rgb(0, 230, 0);
+}
+
+.top-bar{
+  background-color: rgb(0, 230, 0);
+  width: 700px;
+  height: 35px;
+  line-height: 35px;
+  margin: auto;
+  padding: 0;
+  text-align: center;
+}
+
+.container{
+  width: 900px
+  margin: auto;
+}
+
+.text-info{
+  width: 700px;
+  margin-top: 30px;
+}
+
+.info1{
+  margin-top: 10px;
+}
+
+p{
+  font-size: 12px;
+}
+
+.carica-gino{
+  width: 250px;
+  height: 25px;
+  background: rgb(255, 190, 0);
+  margin-left: 0;
+  border-radius: 5px 5px 5px 5px;
+}
+
+.carica-mike{
+  width: 370px;
+  height: 25px;
+  background: rgb(0, 200, 0);
+  margin-left: 0;
+  border-radius: 5px 5px 5px 5px;
+}
+
+.carica-fede{
+  width: 130px;
+  height: 25px;
+  background: rgb(255, 80, 80);
+  margin-left: 0;
+  border-radius: 5px 5px 5px 5px;
+}
+
+.info1{
+  color: white;
+}
